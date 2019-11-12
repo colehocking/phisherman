@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# Telmail - Send Mail with Attachments via telnet to SMTP mailserver
-
+# Phisherman - Send Mail with Attachments via telnet to SMTP mailserver
+# -- Cole Hocking
 # The MIME Boundary. It can't appear anywhere else in the message
 # (RFC 2045)
 # Keep in mind, this one is also acting as a sort of 'signature';
